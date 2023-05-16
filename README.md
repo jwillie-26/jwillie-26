@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
+<h1 align="center">Hi 👋, I'm Ian  Jesse</h1>
 
 <!-- [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h2 align="center">  -->
@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kangzy_fix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ian kangacha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ian-kangacha-56101b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ian kangacha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_kangzy_fix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessedallan1" height="30" width="40" /></a>
+<a href="https://twitter.com/jwillie_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ian kangacha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesse-wambu-442466269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ian kangacha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_jwillie_2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessedallan1" height="30" width="40" /></a>
 </p>
 
 
@@ -24,17 +24,15 @@
 
 💬 Ask me about coding
 
- 🔭 I’m currently working on **Computer Society of Kenya**
-
  ** Ready for Employment**
 
- 🌱 I’m currently learning **TypeScript,Kotlin,Java**
+ 🌱 I’m currently learning **TypeScript,cybersecurity**
 
 👯 I’m looking to collaborate on **Fullstack web development & Mobile Development**
 
  💬 Ask me about **Vanilla Javascript,React,Angular, Flutter, Ruby on Rails,SQL,HTML,CSS**
 
-📫 How to reach me **kangzyfix@gmail.com**
+📫 How to reach me **jessewambu26@gmail.com**
 
 
 
@@ -89,5 +87,5 @@
 ## Copyright
 
 ```bash
-  © By Ian Wambugu Kangacha
+  © By Jesse Wambu
 ```
