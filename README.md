@@ -75,11 +75,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="Ian" /></p>
-
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&" alt="Ian" /></p>
-
-<p><img align-items="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="Ian" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jwillie26&theme=dark)](https://git.io/streak-stats)
 
 
 
