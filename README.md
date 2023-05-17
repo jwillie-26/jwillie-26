@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 
-<p align="left"> <a href="https://twitter.com/jwillie_26" target="blank"><img src="https://img.shields.io/twitter/follow/kangzy_fix?logo=twitter&style=for-the-badge" alt="Ian" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
